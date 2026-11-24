@@ -1,0 +1,344 @@
+{
+  "deals": [
+    {
+      "opportunity_id": "NAVAJO-DC-01",
+      "nation": "Navajo Nation",
+      "site": "Navajo Nation Reservation",
+      "state": "AZ",
+      "project_type": "Data center campus",
+      "size": "300 MW campus",
+      "score": 88.8,
+      "stage": "thesis",
+      "one_line": "A data center campus on the Navajo Nation Reservation, next to a major high-voltage substation and natural gas, about 16 miles from an established data center market, built with the Nation as landowner.",
+      "what_the_tribe_would_receive": "The land stays the Nation's and nothing moves without its approval; it earns lease income paid before lenders and investors, can invest alongside us for an ownership share, and shapes the jobs, training and community benefits.",
+      "questions_to_learn_in_meetings": [
+        "Does the Nation see large energy users, such as a data center campus, as a fit for its land, and which enterprise or office would lead that conversation?",
+        "Who would need to approve site control and a lease, and how long does that usually take?",
+        "What would the Nation want a project like this to bring: jobs, training, ownership, power for the community?",
+        "Does the Nation have its own utility, or plans for one, that should be part of the conversation?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "MOAPA-DC-01",
+      "nation": "Moapa Band of Paiutes",
+      "site": "Moapa River Indian Reservation",
+      "state": "NV",
+      "project_type": "Data center campus",
+      "size": "300 MW campus",
+      "score": 84.4,
+      "stage": "thesis",
+      "one_line": "A data center campus on the Moapa River Indian Reservation, next to a major high-voltage substation and natural gas, about 21 miles from an established data center market, built with the Nation as landowner.",
+      "what_the_tribe_would_receive": "The land stays the Nation's and nothing moves without its approval; it earns lease income paid before lenders and investors, can invest alongside us for an ownership share, and shapes the jobs, training and community benefits.",
+      "questions_to_learn_in_meetings": [
+        "Does the Nation see large energy users, such as a data center campus, as a fit for its land, and which enterprise or office would lead that conversation?",
+        "Who would need to approve site control and a lease, and how long does that usually take?",
+        "What would the Nation want a project like this to bring: jobs, training, ownership, power for the community?",
+        "Does the Nation have its own utility, or plans for one, that should be part of the conversation?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "TOHONO-TX-01",
+      "nation": "Tohono O'odham Nation",
+      "site": "Tohono O'odham Nation Reservation",
+      "state": "AZ",
+      "project_type": "Transmission stake",
+      "size": "$70M stake",
+      "score": 82.9,
+      "stage": "thesis",
+      "one_line": "A share in the high-voltage transmission that crosses or runs beside the Tohono O'odham Nation Reservation, so the Nation can own part of the grid on and around its land.",
+      "what_the_tribe_would_receive": "The Nation keeps its land and its say, earns income from the rights-of-way, and can take an ownership share in a long-lived grid asset alongside us.",
+      "questions_to_learn_in_meetings": [
+        "Has the Nation looked at owning a share of the transmission on or near its land before, and what did it learn?",
+        "Which office handles rights-of-way and agreements with utilities, and who would need to approve a partnership?",
+        "Would the Nation prefer to invest alongside partners for a larger share, or start with lease income and grow from there?",
+        "Are there cultural sites or community concerns along the existing corridors that any project should respect?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "GILA-TX-01",
+      "nation": "Gila River Indian Community",
+      "site": "Gila River Indian Reservation",
+      "state": "AZ",
+      "project_type": "Transmission stake",
+      "size": "$70M stake",
+      "score": 82.9,
+      "stage": "thesis",
+      "one_line": "A share in the high-voltage transmission that crosses or runs beside the Gila River Indian Reservation, so the Nation can own part of the grid on and around its land.",
+      "what_the_tribe_would_receive": "The Nation keeps its land and its say, earns income from the rights-of-way, and can take an ownership share in a long-lived grid asset alongside us.",
+      "questions_to_learn_in_meetings": [
+        "Has the Nation looked at owning a share of the transmission on or near its land before, and what did it learn?",
+        "Which office handles rights-of-way and agreements with utilities, and who would need to approve a partnership?",
+        "Would the Nation prefer to invest alongside partners for a larger share, or start with lease income and grow from there?",
+        "Are there cultural sites or community concerns along the existing corridors that any project should respect?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "NAVAJO-TX-01",
+      "nation": "Navajo Nation",
+      "site": "Navajo Nation Off-Reservation Trust Land",
+      "state": "NM",
+      "project_type": "Transmission stake",
+      "size": "$70M stake",
+      "score": 82.9,
+      "stage": "thesis",
+      "one_line": "A share in the high-voltage transmission that crosses or runs beside the Navajo Nation Off-Reservation Trust Land, so the Nation can own part of the grid on and around its land.",
+      "what_the_tribe_would_receive": "The Nation keeps its land and its say, earns income from the rights-of-way, and can take an ownership share in a long-lived grid asset alongside us.",
+      "questions_to_learn_in_meetings": [
+        "Has the Nation looked at owning a share of the transmission on or near its land before, and what did it learn?",
+        "Which office handles rights-of-way and agreements with utilities, and who would need to approve a partnership?",
+        "Would the Nation prefer to invest alongside partners for a larger share, or start with lease income and grow from there?",
+        "Are there cultural sites or community concerns along the existing corridors that any project should respect?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "YAKAMA-TX-01",
+      "nation": "Confederated Tribes and Bands of the Yakama Nation",
+      "site": "Yakama Nation Reservation",
+      "state": "WA",
+      "project_type": "Transmission stake",
+      "size": "$70M stake",
+      "score": 82.9,
+      "stage": "thesis",
+      "one_line": "A share in the high-voltage transmission that crosses or runs beside the Yakama Nation Reservation, so the Nation can own part of the grid on and around its land.",
+      "what_the_tribe_would_receive": "The Nation keeps its land and its say, earns income from the rights-of-way, and can take an ownership share in a long-lived grid asset alongside us.",
+      "questions_to_learn_in_meetings": [
+        "Has the Nation looked at owning a share of the transmission on or near its land before, and what did it learn?",
+        "Which office handles rights-of-way and agreements with utilities, and who would need to approve a partnership?",
+        "Would the Nation prefer to invest alongside partners for a larger share, or start with lease income and grow from there?",
+        "Are there cultural sites or community concerns along the existing corridors that any project should respect?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "COLVILLE-TX-01",
+      "nation": "Confederated Tribes of the Colville Reservation",
+      "site": "Colville Reservation",
+      "state": "WA",
+      "project_type": "Transmission stake",
+      "size": "$70M stake",
+      "score": 82.9,
+      "stage": "thesis",
+      "one_line": "A share in the high-voltage transmission that crosses or runs beside the Colville Reservation, so the Nation can own part of the grid on and around its land.",
+      "what_the_tribe_would_receive": "The Nation keeps its land and its say, earns income from the rights-of-way, and can take an ownership share in a long-lived grid asset alongside us.",
+      "questions_to_learn_in_meetings": [
+        "Has the Nation looked at owning a share of the transmission on or near its land before, and what did it learn?",
+        "Which office handles rights-of-way and agreements with utilities, and who would need to approve a partnership?",
+        "Would the Nation prefer to invest alongside partners for a larger share, or start with lease income and grow from there?",
+        "Are there cultural sites or community concerns along the existing corridors that any project should respect?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "AKCHIN-DC-01",
+      "nation": "Ak-Chin Indian Community",
+      "site": "Maricopa (Ak Chin) Indian Reservation",
+      "state": "AZ",
+      "project_type": "Data center campus",
+      "size": "300 MW campus",
+      "score": 82.7,
+      "stage": "thesis",
+      "one_line": "A data center campus on the Maricopa (Ak Chin) Indian Reservation, next to a major high-voltage substation and natural gas, about 17 miles from an established data center market, built with the Nation as landowner.",
+      "what_the_tribe_would_receive": "The land stays the Nation's and nothing moves without its approval; it earns lease income paid before lenders and investors, can invest alongside us for an ownership share, and shapes the jobs, training and community benefits.",
+      "questions_to_learn_in_meetings": [
+        "Does the Nation see large energy users, such as a data center campus, as a fit for its land, and which enterprise or office would lead that conversation?",
+        "Who would need to approve site control and a lease, and how long does that usually take?",
+        "What would the Nation want a project like this to bring: jobs, training, ownership, power for the community?",
+        "Does the Nation have its own utility, or plans for one, that should be part of the conversation?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "ZUNI-TX-01",
+      "nation": "Pueblo of Zuni",
+      "site": "Zuni Reservation",
+      "state": "NM",
+      "project_type": "Transmission stake",
+      "size": "$70M stake",
+      "score": 81.5,
+      "stage": "thesis",
+      "one_line": "A share in the high-voltage transmission that crosses or runs beside the Zuni Reservation, so the Nation can own part of the grid on and around its land.",
+      "what_the_tribe_would_receive": "The Nation keeps its land and its say, earns income from the rights-of-way, and can take an ownership share in a long-lived grid asset alongside us.",
+      "questions_to_learn_in_meetings": [
+        "Has the Nation looked at owning a share of the transmission on or near its land before, and what did it learn?",
+        "Which office handles rights-of-way and agreements with utilities, and who would need to approve a partnership?",
+        "Would the Nation prefer to invest alongside partners for a larger share, or start with lease income and grow from there?",
+        "Are there cultural sites or community concerns along the existing corridors that any project should respect?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "NEZPERCE-DC-01",
+      "nation": "Nez Perce Tribe",
+      "site": "Nez Perce Reservation",
+      "state": "ID",
+      "project_type": "Data center campus",
+      "size": "300 MW campus",
+      "score": 80.9,
+      "stage": "thesis",
+      "one_line": "A data center campus on the Nez Perce Reservation, next to a major high-voltage substation, built with the Nation as landowner.",
+      "what_the_tribe_would_receive": "The land stays the Nation's and nothing moves without its approval; it earns lease income paid before lenders and investors, can invest alongside us for an ownership share, and shapes the jobs, training and community benefits.",
+      "questions_to_learn_in_meetings": [
+        "Does the Nation see large energy users, such as a data center campus, as a fit for its land, and which enterprise or office would lead that conversation?",
+        "Who would need to approve site control and a lease, and how long does that usually take?",
+        "What would the Nation want a project like this to bring: jobs, training, ownership, power for the community?",
+        "Does the Nation have its own utility, or plans for one, that should be part of the conversation?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "YAKAMA-TX-02",
+      "nation": "Confederated Tribes and Bands of the Yakama Nation",
+      "site": "Yakama Nation Off-Reservation Trust Land",
+      "state": "WA",
+      "project_type": "Transmission stake",
+      "size": "$70M stake",
+      "score": 79.0,
+      "stage": "thesis",
+      "one_line": "A share in the high-voltage transmission that crosses or runs beside the Yakama Nation Off-Reservation Trust Land, so the Nation can own part of the grid on and around its land.",
+      "what_the_tribe_would_receive": "The Nation keeps its land and its say, earns income from the rights-of-way, and can take an ownership share in a long-lived grid asset alongside us.",
+      "questions_to_learn_in_meetings": [
+        "Has the Nation looked at owning a share of the transmission on or near its land before, and what did it learn?",
+        "Which office handles rights-of-way and agreements with utilities, and who would need to approve a partnership?",
+        "Would the Nation prefer to invest alongside partners for a larger share, or start with lease income and grow from there?",
+        "Are there cultural sites or community concerns along the existing corridors that any project should respect?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "UTEMTN-TX-01",
+      "nation": "Ute Mountain Ute Tribe",
+      "site": "Ute Mountain Reservation",
+      "state": "CO",
+      "project_type": "Transmission stake",
+      "size": "$70M stake",
+      "score": 78.3,
+      "stage": "thesis",
+      "one_line": "A share in the high-voltage transmission that crosses or runs beside the Ute Mountain Reservation, so the Nation can own part of the grid on and around its land.",
+      "what_the_tribe_would_receive": "The Nation keeps its land and its say, earns income from the rights-of-way, and can take an ownership share in a long-lived grid asset alongside us.",
+      "questions_to_learn_in_meetings": [
+        "Has the Nation looked at owning a share of the transmission on or near its land before, and what did it learn?",
+        "Which office handles rights-of-way and agreements with utilities, and who would need to approve a partnership?",
+        "Would the Nation prefer to invest alongside partners for a larger share, or start with lease income and grow from there?",
+        "Are there cultural sites or community concerns along the existing corridors that any project should respect?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "UMATILLA-TX-01",
+      "nation": "Confederated Tribes of the Umatilla Indian Reservation",
+      "site": "Umatilla Off-Reservation Trust Land",
+      "state": "WA",
+      "project_type": "Transmission stake",
+      "size": "$70M stake",
+      "score": 78.1,
+      "stage": "thesis",
+      "one_line": "A share in the high-voltage transmission that crosses or runs beside the Umatilla Off-Reservation Trust Land, so the Nation can own part of the grid on and around its land.",
+      "what_the_tribe_would_receive": "The Nation keeps its land and its say, earns income from the rights-of-way, and can take an ownership share in a long-lived grid asset alongside us.",
+      "questions_to_learn_in_meetings": [
+        "Has the Nation looked at owning a share of the transmission on or near its land before, and what did it learn?",
+        "Which office handles rights-of-way and agreements with utilities, and who would need to approve a partnership?",
+        "Would the Nation prefer to invest alongside partners for a larger share, or start with lease income and grow from there?",
+        "Are there cultural sites or community concerns along the existing corridors that any project should respect?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "MORONGO-TX-01",
+      "nation": "Morongo Band of Mission Indians",
+      "site": "Morongo Reservation",
+      "state": "CA",
+      "project_type": "Transmission stake",
+      "size": "$70M stake",
+      "score": 77.0,
+      "stage": "thesis",
+      "one_line": "A share in the high-voltage transmission that crosses or runs beside the Morongo Reservation, so the Nation can own part of the grid on and around its land.",
+      "what_the_tribe_would_receive": "The Nation keeps its land and its say, earns income from the rights-of-way, and can take an ownership share in a long-lived grid asset alongside us.",
+      "questions_to_learn_in_meetings": [
+        "Has the Nation looked at owning a share of the transmission on or near its land before, and what did it learn?",
+        "Which office handles rights-of-way and agreements with utilities, and who would need to approve a partnership?",
+        "Would the Nation prefer to invest alongside partners for a larger share, or start with lease income and grow from there?",
+        "Are there cultural sites or community concerns along the existing corridors that any project should respect?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "PYRAMID-TX-01",
+      "nation": "Pyramid Lake Paiute Tribe",
+      "site": "Pyramid Lake Paiute Reservation",
+      "state": "NV",
+      "project_type": "Transmission stake",
+      "size": "$70M stake",
+      "score": 76.9,
+      "stage": "thesis",
+      "one_line": "A share in the high-voltage transmission that crosses or runs beside the Pyramid Lake Paiute Reservation, so the Nation can own part of the grid on and around its land.",
+      "what_the_tribe_would_receive": "The Nation keeps its land and its say, earns income from the rights-of-way, and can take an ownership share in a long-lived grid asset alongside us.",
+      "questions_to_learn_in_meetings": [
+        "Has the Nation looked at owning a share of the transmission on or near its land before, and what did it learn?",
+        "Which office handles rights-of-way and agreements with utilities, and who would need to approve a partnership?",
+        "Would the Nation prefer to invest alongside partners for a larger share, or start with lease income and grow from there?",
+        "Are there cultural sites or community concerns along the existing corridors that any project should respect?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "AGUA-TX-01",
+      "nation": "Agua Caliente Band of Cahuilla Indians",
+      "site": "Agua Caliente Indian Reservation",
+      "state": "CA",
+      "project_type": "Transmission stake",
+      "size": "$70M stake",
+      "score": 76.8,
+      "stage": "thesis",
+      "one_line": "A share in the high-voltage transmission that crosses or runs beside the Agua Caliente Indian Reservation, so the Nation can own part of the grid on and around its land.",
+      "what_the_tribe_would_receive": "The Nation keeps its land and its say, earns income from the rights-of-way, and can take an ownership share in a long-lived grid asset alongside us.",
+      "questions_to_learn_in_meetings": [
+        "Has the Nation looked at owning a share of the transmission on or near its land before, and what did it learn?",
+        "Which office handles rights-of-way and agreements with utilities, and who would need to approve a partnership?",
+        "Would the Nation prefer to invest alongside partners for a larger share, or start with lease income and grow from there?",
+        "Are there cultural sites or community concerns along the existing corridors that any project should respect?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    },
+    {
+      "opportunity_id": "OSAGE-TX-01",
+      "nation": "Osage Nation",
+      "site": "Osage Reservation",
+      "state": "OK",
+      "project_type": "Transmission stake",
+      "size": "$70M stake",
+      "score": 75.9,
+      "stage": "thesis",
+      "one_line": "A share in the high-voltage transmission that crosses or runs beside the Osage Reservation, so the Nation can own part of the grid on and around its land.",
+      "what_the_tribe_would_receive": "The Nation keeps its land and its say, earns income from the rights-of-way, and can take an ownership share in a long-lived grid asset alongside us.",
+      "questions_to_learn_in_meetings": [
+        "Has the Nation looked at owning a share of the transmission on or near its land before, and what did it learn?",
+        "Which office handles rights-of-way and agreements with utilities, and who would need to approve a partnership?",
+        "Would the Nation prefer to invest alongside partners for a larger share, or start with lease income and grow from there?",
+        "Are there cultural sites or community concerns along the existing corridors that any project should respect?"
+      ],
+      "proposal_file": "",
+      "approved_to_share": false
+    }
+  ]
+}

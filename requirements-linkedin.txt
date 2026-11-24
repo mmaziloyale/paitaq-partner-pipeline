@@ -1,0 +1,2 @@
+# Optional: only for the LinkedIn window (LINKEDIN_BROWSER=1). Not needed to run the app.
+playwright>=1.45,<2

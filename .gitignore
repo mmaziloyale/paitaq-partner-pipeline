@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+data/paitaq.db
+data/full/
+frontend/node_modules/
+.DS_Store
+data/linkedin-browser/
+_to_delete/
+snap_tmp.db
+*.db-journal
